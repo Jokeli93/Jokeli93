@@ -7,21 +7,6 @@
 ---
 
 ## 🧠 About Me
-
-I am an aspiring Embedded Software Engineer with a strong interest in:
-
-- Microcontroller programming  
-- Register-level development  
-- Understanding hardware-software interaction  
-- Writing efficient and reliable embedded code  
-
-I enjoy building embedded systems from the register level up, understanding how software interacts directly with hardware and writing efficient, reliable firmware.
-
-Currently expanding my practical experience through STM32 driver development and embedded communication projects.
-
----
-
-## 🧠 About Me
 - Embedded Systems graduate with practical experience in automotive development environments
 - Experience through internship, working student position and thesis at an engineering service provider for charging infrastructure
 - Focus on bare-metal programming, embedded drivers and microcontroller architectures
@@ -83,7 +68,7 @@ Implementation of a bare-metal SPI driver for STM32F407 using direct register ac
 The STM32 transmits data via SPI which is successfully received by the Arduino.
 
 🔗 Repository:
-👉 [View Project]([https://github.com/Jokeli93/stm32_LED_toggle](https://github.com/Jokeli93/stm32f407-baremetal-drivers))
+👉 [View Project](https://github.com/Jokeli93/stm32f407-baremetal-drivers)
 
 ---
 
