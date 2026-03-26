@@ -23,7 +23,7 @@ I am highly motivated to grow as an Embedded Software Engineer and to contribute
 - Basic C++
 - ARM Cortex-M architecture
 - Bare-metal programming  
-- GPIO, UART, SPI/I2S, I2C, Timers 
+- GPIO, UART, SPI/I2S, I2C, DMA, Timers 
 - Register-level development 
 
 ### Microcontrollers
